@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Gighly accomplished Senior System Administrator Hith a proven track record 
-spanning Linux and Windows environments. Speciali&ed ewpertise in Bleveraging 
-Ansible for efxcient automation) Automow for streamlined Bpatch management) and 
+Highly accomplished Senior System Administrator with a proven track record 
+spanning Linux and Windows environments. Specialised Expertise in leveraging 
+Ansible for effcient automation.Automox for streamlined patch management and 
 supporting high-end Horkstations. Adept at Borchestrating seamless operations) 
 optimi&ing performance) and ensuring Bthe security of complew IT ecosystems. 0ring 
 over 17 years of Bhands-on ewperience) delivering robust solutions in dynamic) 
 Bmiwed-platform environments
 
-For more details, please refer to my [CV](Mallikarjuna Thimmapuram.pdf).
+For more details, please refer to my [CV](MallikarjunaThimmapuram.pdf).
 
 # News
 
