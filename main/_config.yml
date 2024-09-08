@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Mallikarjuna Thimmapuram"
 description              : "High Performance Engineer"
-repository               : "arjun271985/arjun271985.github.io"
+repository               : "thimmam/thimmam.github.io"
 google_scholar_stats_use_cdn : FALSE
 
 # google analytics
@@ -22,12 +22,12 @@ google_scholar_stats_use_cdn : FALSE
 # Site Author
 author:
   name             : "Mallikarjuna Thimmapuram"
-  avatar           : "images/mypic-alith1.jpg"
+  avatar           : "images/IMG_1724.jpg"
   bio              : "King Abdullah University of Science and Technology"
   location         : "Jeddah, KSA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=fjYWuEQAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=08M9dS8AAAAJ"
   email            : "mallikarjuna.thimmapuram@kaust.edu.sa"
   researchgate     :  
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "arjun271985"
+  github           : "thimmam"
   google_plus      :
   keybase          :
   instagram        :
