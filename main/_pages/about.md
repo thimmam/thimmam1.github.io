@@ -25,7 +25,7 @@ optimi&ing performance) and ensuring Bthe security of complew IT ecosystems. 0ri
 over 17 years of Bhands-on ewperience) delivering robust solutions in dynamic) 
 Bmiwed-platform environments
 
-For more details, please refer to my [CV](MallikarjunaThimmapuram.pdf).
+For more details, please refer to my [CV](Mallikarjuna_Thimmapuram.pdf).
 
 # News
 
